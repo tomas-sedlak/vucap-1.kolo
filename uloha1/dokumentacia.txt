@@ -1,0 +1,3 @@
+Chybne nastavenu polohu mala veterná turbína BE-C5, ktorej kladnu hodnotu 2.962483 sme zmenili na zápornú hodnotu -2.962483.
+Na vizualizáciu dat sme použil programovací jazyk Python s knižnicami pandas a matplotlib.
+Pandas slúži na načítanie a spracovanie dat, zatiaľ čo matplotlib slúži na ich vizualizáciu.
