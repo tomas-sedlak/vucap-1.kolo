@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-data = pd.read_csv("polohy_turbin.csv")
+data = pd.read_csv("./uloha1/polohy_turbin.csv")
 
 plt.scatter(data["Longitude"], data["Latitude"])
 
