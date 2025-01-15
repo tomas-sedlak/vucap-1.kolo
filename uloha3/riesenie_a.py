@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Načítanie dát z Excel súboru
-data_file = 'uloha3_data.xlsx'
+data_file = './uloha3/uloha3_data.xlsx'
 df = pd.read_excel(data_file)
 
 # Kontrola štruktúry dát
